@@ -1,4 +1,4 @@
-ok#bgmiddoserpython
+#bgmiddoserpython
 
 import telebot
 import subprocess
