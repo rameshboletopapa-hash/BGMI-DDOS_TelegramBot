@@ -1,4 +1,4 @@
-#bgmiddoserpython
+ok#bgmiddoserpython
 
 import telebot
 import subprocess
@@ -11,7 +11,7 @@ keep_alive()
 bot = telebot.TeleBot('8784009909:AAEFEctfrhmMRqjmeORUsVF_KoD-k05IMt8')
 
 # Admin user IDs
-admin_id = ["8400776382"]
+admin_id = ["8414537711"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
